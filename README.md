@@ -49,10 +49,6 @@ I'm a Software Engineer passionate about building innovative and impactful appli
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JackB7145&layout=compact&theme=tokyonight&hide_border=true)
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=JackB7145&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-
 ---
 
 ![](https://visitcount.itsvg.in/api?id=JackB7145&icon=1&color=0)
